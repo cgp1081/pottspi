@@ -3,10 +3,7 @@ This is a new feature on a branch
 Added these changes on a fork
 Added some more changes
 This is a test
-<<<<<<< HEAD
 Making another change
-
-=======
 A pie test
 An actual pi test
->>>>>>> e2b4eb440e1f014fa045c53a9e069c92f215fcfa
+I resolved all of the issues with this one
